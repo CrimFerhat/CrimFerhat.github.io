@@ -3,7 +3,7 @@
 #### Technical Skills: R, SPSS, MLwiN
 
 ## Education
-- PG Certificate in Education Practice | Bournemouth University (2024)
+- PG Certificate, Education Practice | Bournemouth University (2024)
 - Ph.D., Criminology | Nottingham Trent University (2019)								       		
 - M.Sc., Crime, Safety and Justice	| Cardiff University (2015)	 			        		
 
