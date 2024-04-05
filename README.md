@@ -8,9 +8,9 @@
 - M.Sc., Crime, Safety and Justice	| Cardiff University (2015)	 			        		
 
 ## Work Experience
-**Lecturer in Criminology @ Bournemouth University (_September 2022 - Present_)**
-**Research Fellow @ Nottingham Trent University (_March 2018 - September 2022_)**
-**Associate Lecturer @ Nottingham Trent University (_March 2018 - September 2022_)**
+1. Lecturer in Criminology @ Bournemouth University (September 2022 - Present)
+2. Research Fellow @ Nottingham Trent University (March 2018 - September 2022)
+3. Associate Lecturer @ Nottingham Trent University (March 2018 - September 2022)
 
 ## Teaching
 - Quantitative Research Skills (Year 2, Unit Lead)
