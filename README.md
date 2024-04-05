@@ -3,19 +3,19 @@
 #### Technical Skills: R, SPSS, MLwiN
 
 ## Education
-- PG Certificate, Education Practice | Bournemouth University (2024)
-- Ph.D., Criminology | Nottingham Trent University (2019)								       		
-- M.Sc., Crime, Safety and Justice	| Cardiff University (2015)	 			        		
+1. PG Certificate, Education Practice, Bournemouth University (2024)
+2. Ph.D., Criminology, Nottingham Trent University (2019)
+3. M.Sc., Crime, Safety and Justice, Cardiff University (2015)	 			        		
 
 ## Work Experience
-1. Lecturer in Criminology @ Bournemouth University (September 2022 - Present)
-2. Research Fellow @ Nottingham Trent University (March 2018 - September 2022)
-3. Associate Lecturer @ Nottingham Trent University (March 2018 - September 2022)
+1. Lecturer in Criminology, Bournemouth University (September 2022 - Present)
+2. Research Fellow, Nottingham Trent University (March 2018 - September 2022)
+3. Associate Lecturer, Nottingham Trent University (March 2018 - September 2022)
 
 ## Teaching
-- Quantitative Research Skills (Year 2, Unit Lead)
-- Impact of Crime (Year 2, Seminar Lead)
-- Research Methods for Criminology & Criminal Justice (MA, Unit Lead)
+1. Quantitative Research Skills (Year 2, Unit Lead)
+2. Impact of Crime (Year 2, Seminar Lead)
+3. Research Methods for Criminology & Criminal Justice (MA, Unit Lead)
   
 ## Publications
 ### Published peer-reviewed articles
@@ -24,13 +24,16 @@
 3. Tura, F., Nomikos, E. and Betts, L.R., 2023. Prevalence and Predictors of Poly-Victimization of Adolescents in England and Wales. Journal of Interpersonal Violence, 38 (5-6), 4688-4713. https://doi.org/10.1177/08862605221118967
 4. Tura, F., Hunter, J., Thompson, R., and Tseloni, A., 2023. Identifying the adoption of policing styles: A methodology for determining the commitment to Problem-Oriented Policing amongst police forces in England and Wales. Policing: A Journal of Policy and Practice. https://doi.org/10.1093/police/paac021
 5. Tura, F., Wood, C., Thompson, R. and Lushey, C., 2023. Evaluating the impact of book gifting on the reading behaviours of parents and young children. Early Years, 43 (1), 75-90. https://www.tandfonline.com/doi/full/10.1080/09575146.2021.1908234
+   
 ### Under review
 1. Tura, F, Buil-Gill, D, and Adeniyi, O., 2024. Polymeasures of Polyvictimization: Optimal Measurement Strategies and Meta-Analytic Predictors. Submitted to British Society of Criminology. https://www.crimrxiv.com/pub/ribetyyx/release/1
+   
 ### Working papers
 1. Tura, F., Healy, J., Nomikos, E., Evans, C., and Leckie, G. An intersectional analysis of violence victimisation in England and Wales using multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA)
 2. Tura, F., Nivette, Amy., and Hunter, James. Exploring drivers of area level changes in crime over time: what role do changes in demographic composition and police resources play?
 3. Oluwole, A., Tura, F., Newton, A, and McAlaney, J. Gambling related harm: an urban perspective of betting shop and crime
 4. Charles, M., Tura, F., Otalora, J., and Suarez, M. The politics of illicit recruitment: How and why violent non-state armed groups recruit children and teenagers in Colombia.
+   
 ### Reports
 1. Lushey, C., Tura, F. and et al, 2023. Evaluation of Small Steps Big Changes: Final Report 2023. A report prepared for the Small Steps Big Changes Organisation, Nottingham, UK.
 2. Lushey, C., Tura, F., Toft, A., Newham, K., Slater, J., Law, S., Jameel, A., Rathore, G., and Paechter, C., 2022. Evaluation of Small Steps Big Changes, 2022. A report prepared for the Small Steps Big Changes Organisation, Nottingham, UK.
