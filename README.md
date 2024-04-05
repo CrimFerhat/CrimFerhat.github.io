@@ -29,7 +29,7 @@
 1. Tura, F, Buil-Gill, D, and Adeniyi, O., 2024. Polymeasures of Polyvictimization: Optimal Measurement Strategies and Meta-Analytic Predictors. Submitted to British Society of Criminology. https://www.crimrxiv.com/pub/ribetyyx/release/1
    
 ### Working papers
-1. Tura, F., Healy, J., Nomikos, E., Evans, C., and Leckie, G. An intersectional analysis of violence victimisation in England and Wales using multilevel analysis of individual heterogeneity and discriminatory accuracy (MAIHDA)
+1. Tura, F., Healy, J., Nomikos, E., Evans, C., and Leckie, G. An intersectional analysis of violence victimisation in England and Wales 
 2. Tura, F., Nivette, Amy., and Hunter, James. Exploring drivers of area level changes in crime over time: what role do changes in demographic composition and police resources play?
 3. Oluwole, A., Tura, F., Newton, A, and McAlaney, J. Gambling related harm: an urban perspective of betting shop and crime
 4. Charles, M., Tura, F., Otalora, J., and Suarez, M. The politics of illicit recruitment: How and why violent non-state armed groups recruit children and teenagers in Colombia.
